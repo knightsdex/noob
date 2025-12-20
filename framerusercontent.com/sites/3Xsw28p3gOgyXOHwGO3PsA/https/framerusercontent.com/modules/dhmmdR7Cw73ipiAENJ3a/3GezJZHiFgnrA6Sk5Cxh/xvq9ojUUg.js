@@ -262,7 +262,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                               scopeId: "xvq9ojUUg",
                               style: { rotate: 5 },
                               children: /*#__PURE__*/ _jsx(SocialLink, {
-                                gR9_gy1KR: "https://x.com/NoobStillHere",
+                                gR9_gy1KR: "https://x.com/NoobonEther",
                                 height: "100%",
                                 id: "d8siCRjXy",
                                 layoutId: "d8siCRjXy",
