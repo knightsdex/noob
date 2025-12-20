@@ -229,7 +229,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                               rendersWithMotion: true,
                               scopeId: "xvq9ojUUg",
                               children: /*#__PURE__*/ _jsx(SocialLink, {
-                                gR9_gy1KR: "https://t.me/NOOBonETH",
+                                gR9_gy1KR: "https://t.me/NOOBonEther",
                                 height: "100%",
                                 id: "NkIrdbuDE",
                                 layoutId: "NkIrdbuDE",

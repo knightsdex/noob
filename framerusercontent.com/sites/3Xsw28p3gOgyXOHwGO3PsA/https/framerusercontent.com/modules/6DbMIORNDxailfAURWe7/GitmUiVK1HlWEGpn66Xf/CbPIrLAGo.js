@@ -554,7 +554,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                         gestureVariant
                                       ),
                                       children: /*#__PURE__*/ _jsx(SocialLink, {
-                                        gR9_gy1KR: "https://t.me/NOOBonETH",
+                                        gR9_gy1KR: "https://t.me/NOOBonEther",
                                         height: "100%",
                                         id: "cXRtqffuS",
                                         layoutId: "cXRtqffuS",
@@ -767,7 +767,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                         className: "framer-styles-preset-1gou2ux",
                         "data-styles-preset": "m8DU6sDyG",
                         children: /*#__PURE__*/ _jsx(Link, {
-                          href: "T.ME/EVERGREENDEV",
+                          href: "t.me/NOOBonEtherer",
                           motionChild: true,
                           nodeId: "WwisZRJGD",
                           openInNewTab: true,
@@ -798,7 +798,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                               "data-styles-preset": "m8DU6sDyG",
                               style: { "--framer-text-alignment": "center" },
                               children: /*#__PURE__*/ _jsx(Link, {
-                                href: "T.ME/EVERGREENDEV",
+                                href: "t.me/NOOBonEtherer",
                                 motionChild: true,
                                 nodeId: "WwisZRJGD",
                                 openInNewTab: true,
@@ -822,7 +822,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                               "data-styles-preset": "m8DU6sDyG",
                               style: { "--framer-text-alignment": "center" },
                               children: /*#__PURE__*/ _jsx(Link, {
-                                href: "T.ME/EVERGREENDEV",
+                                href: "t.me/NOOBonEtherer",
                                 motionChild: true,
                                 nodeId: "WwisZRJGD",
                                 openInNewTab: true,
