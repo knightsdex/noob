@@ -643,7 +643,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                                       ),
                                       children: /*#__PURE__*/ _jsx(SocialLink, {
                                         gR9_gy1KR:
-                                          "https://dexscreener.com/ethereum/0x0xComingSoon",
+                                          "https://dexscreener.com/ethereum/0xComingSoon",
                                         height: "100%",
                                         id: "HpAGj94eQ",
                                         layoutId: "HpAGj94eQ",
